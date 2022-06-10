@@ -1,3 +1,5 @@
-# react-4dfdz7
+# Desarrollo de interfaces- Ordinaria 2 (parte práctica)
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-4dfdz7)
+Abre la URL para editar en Stackblitz ⚡️
+
+[Para resolver el examen de forma local, crea un proyecto React con create-react-app y añade el código de este proyecto.]
